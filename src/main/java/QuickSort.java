@@ -75,8 +75,6 @@ public class QuickSort {
     /**
      * Reads in a sequence of strings from standard input; quicksorts them;
      * and prints them to standard output in ascending order.
-     * Shuffles the array and then prints the strings again to
-     * standard output, but this time, using the select method.
      *
      * @param args the command-line arguments
      */
